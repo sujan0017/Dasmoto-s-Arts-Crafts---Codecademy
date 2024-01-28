@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+  font-size: 100px;
+  font-weight: bold;
+  color:khaki;
+  text-align: center;
+
+  background-image: url(img/pattern.jpeg);
+  margin-top: 40px;
+}
+
+.container h1 {
+  font-size: 32px;
+  font-weight: bold;
+  color:rgb(255, 128, 0);
+  margin: 30px 0;
+  color: white;
+
+}
+
+.container h3 {
+  margin-top: 7px;
+}
+
+.head-bg-1 {
+  background-color: mediumspringgreen;
+}
+.head-bg-2 {
+  background-color: lightcoral;
+}
+.head-bg-3 {
+  background-color: skyblue;
+}
+
+p {
+  margin-top: 10px;
+}
+
+.mySpan {
+  font-weight: bold;
+  color: blue;
+}
